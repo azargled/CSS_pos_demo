@@ -1,0 +1,64 @@
+body
+{
+  background-color: black;
+}
+
+.whitened
+{
+  color: white;
+}
+
+.box1 
+{
+  display: inline-block;
+  border: 1px solid white;
+  height: 150px;
+  width: 150px;
+  background-image: linear-gradient(to right, yellow, blue);
+}
+
+.box2
+{
+  display: inline-block;
+  border: 1px solid white;
+  height: 150px;
+  width: 150px;
+  background-image: linear-gradient(yellow, blue);
+}
+
+.box3
+{
+  display: inline-block;
+  border: 1px solid white;
+  height: 150px;
+  width: 150px;
+  background-image: radial-gradient(yellow, blue);
+}
+
+.box4
+{
+  display: inline-block;
+  border: 1px solid white;
+  height: 150px;
+  width: 150px;
+  background-image: radial-gradient(yellow, green, blue);
+}
+
+.box5
+{
+  display: inline-block;
+  border: 1px solid white;
+  height: 150px;
+  width: 150px;
+  background-image: conic-gradient(yellow, blue);
+}
+
+.box6
+{
+  display: inline-block;
+  border: 1px solid white;
+  height: 150px;
+  width: 150px;
+  background-image: conic-gradient(yellow, green, blue);
+}
+
